@@ -1,4 +1,4 @@
-# H8_2
+# Intro to Python for Data Science - Hacktiv8
 Hello!
 
 My name is Nindya Eka Apsari. I am a student participant of Introduction to Python for Data Science Batch #2 held by Hacktiv8 and Kemdikbud RI.
